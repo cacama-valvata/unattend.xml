@@ -1,3 +1,0 @@
-[[whitelist]]
-description = "Ignore Windows 10 answer file"
-file = ['''http/windows-10/Autounattend.xml''']
